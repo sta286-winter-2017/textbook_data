@@ -1,0 +1,17 @@
+Mode	type	response
+convection	preheat	618.0
+convection	preheat	619.3
+convection	preheat	629.0
+convection	preheat	611.0
+convection	cold-start	575.0
+convection	cold-start	573.7
+convection	cold-start	574.0
+convection	cold-start	572.0
+regular	preheat	581.0
+regular	preheat	585.7
+regular	preheat	581.0
+regular	preheat	595.0
+regular	cold-start	558.0
+regular	cold-start	562.0
+regular	cold-start	562.0
+regular	cold-start	566.0

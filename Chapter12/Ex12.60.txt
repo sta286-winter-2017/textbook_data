@@ -1,0 +1,6 @@
+Dose 	Lymphoblasts	Aberrations
+0 	600 	15
+30 	500 	96
+60 	600 	187
+75 	300 	100
+90 	300 	145

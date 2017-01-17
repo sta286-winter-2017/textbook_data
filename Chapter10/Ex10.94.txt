@@ -1,0 +1,4 @@
+	Support	NoSupport	Undecided
+Indiana	82	97	21
+Kentucky	107	66	27
+Ohio	93	74	33

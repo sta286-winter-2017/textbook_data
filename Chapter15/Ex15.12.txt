@@ -1,0 +1,5 @@
+Treatment-combination	Response	A	B	C
+a	43	1	-1	-1
+b	35	-1	1	-1
+c	44	-1	-1	1
+abc	39	1	1	1

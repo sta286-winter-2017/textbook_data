@@ -1,0 +1,5 @@
+Non-smokers	Moderate Smokers		Heavy smokers 
+Hypertension 	21.000	36	30
+No hypertension 	48.000	26	19
+
+

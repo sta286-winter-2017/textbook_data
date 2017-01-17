@@ -1,0 +1,4 @@
+	0-1	2-3	Over3
+Elementary	14	37	32
+Secondary	19	42	17
+College	12	17	10

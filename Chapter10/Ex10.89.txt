@@ -1,0 +1,5 @@
+District 	Assault 	Burglary 	Larceny 	Homicide
+1 	162 	118 	451 	18
+2 	310 	196 	996 	25
+3 	258 	193 	458 	10
+4 	280 	175 	390 	19

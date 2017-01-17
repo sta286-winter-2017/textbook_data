@@ -1,0 +1,4 @@
+Years_Lived 	Widow 	Widower
+Less_than5 	25 	39
+5to10 	42 	40
+More_than10 	33 	21

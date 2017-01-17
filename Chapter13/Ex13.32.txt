@@ -1,0 +1,13 @@
+analyst	individual	arsenic-levels
+employee	1	0.05 
+employee	2	0.05 
+employee	3	0.04 
+employee	4	0.15 
+chemist	1	0.05 
+chemist	2	0.05 
+chemist	3	0.04 
+chemist	4	0.17 
+laboratory	1	0.04 
+laboratory	2	0.04 
+laboratory	3	0.03 
+laboratory	4	0.10 

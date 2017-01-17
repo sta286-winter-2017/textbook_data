@@ -1,0 +1,4 @@
+NyQuil 	Robitussin 	Triaminic
+NoRelief	11 	13 	9
+SomeRelief	32 	28 	27
+TotalRelief	7 	9 	14

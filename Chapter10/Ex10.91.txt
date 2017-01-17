@@ -1,0 +1,5 @@
+	SomewhatBetter	Same	NotAsGood
+1980Jan	72	144	84
+1980May	63	135	102
+1980Sep	47	100	53
+1981Jan	40	105	55

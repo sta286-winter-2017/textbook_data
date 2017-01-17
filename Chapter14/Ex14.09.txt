@@ -1,0 +1,13 @@
+tool	speed	life
+1	Low	22
+1	Low	28
+1	Low	20
+1	High	34
+1	High	37
+1	High	29
+2	Low	18
+2	Low	15
+2	Low	16
+2	High	11
+2	High	10
+2	High	10

@@ -1,0 +1,4 @@
+	Richmond	Norfolk
+FavorA	204	225
+FavorB	211	198
+Undecided	85	77

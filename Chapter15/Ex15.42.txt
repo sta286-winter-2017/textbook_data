@@ -1,0 +1,9 @@
+treat-combination	intensity-ratio		
+abef	2.2480	
+cdef	1.8570	
+(1)	2.2428	
+ace	2.3270	
+bde	1.8830	
+abcd	1.8078	
+adf	2.1424	
+bcf	1.9122	

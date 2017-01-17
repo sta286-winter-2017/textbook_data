@@ -1,0 +1,10 @@
+Source	Degree	Mean
+A	3	140
+B	1	480
+C	2	325
+AB	3	15
+AC	6	24
+BC	2	18
+ABC	6	2
+Error	24	5
+Total	47	

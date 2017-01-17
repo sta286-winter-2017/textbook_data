@@ -1,0 +1,13 @@
+Model 	Brand	mile
+A	A	32.4 
+A	B	35.6 
+A	C	38.7 
+B	A	28.8 
+B	B	28.6 
+B	C	29.9 
+C	A	36.5 
+C	B	37.6 
+C	C	39.1 
+D	A	34.4 
+D	B	36.2 
+D	C	37.9 

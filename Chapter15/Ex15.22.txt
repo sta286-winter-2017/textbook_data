@@ -1,0 +1,17 @@
+treat-combination	response
+(1)	31.6
+ad	28.7
+abce	33.1
+cdef	33.6
+acg	31.1
+cdg	32.0
+beg	32.8
+adefg	35.3
+acef	33.7
+bcde	34.2
+abdf	32.5
+bf	27.8
+efg	32.4
+abdeg	35.3
+bcdfg	35.6
+abcfg	35.1
